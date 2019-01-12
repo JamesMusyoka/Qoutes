@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #### Quotes
+=======
+##### Quotes
+>>>>>>> 573b949f0fa564d5febc6dd06ca1f33f1714594a
 #### By **James Musyoka**
 ## Description
 This is a project that is about creating quotes where people can upvote and downvote a quote
