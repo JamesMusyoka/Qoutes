@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+body, input[text], button {
+  font-family: Itim;
+  font-size: 18px;
+  color: tomato;
+  text-align: center;
+  background-color: #FFDEAD;
+}
